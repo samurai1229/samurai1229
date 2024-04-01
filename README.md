@@ -19,4 +19,4 @@ Hello, I'm Min-seong, call me Min, S.Korean
 I like Baseball, so I want to make baseball-related program
 
 ## career
-
+a university student

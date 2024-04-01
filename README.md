@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## introduction
+Hello, I'm Min-seong, call me Min, S.Korean
+I like Baseball, so I want to make baseball-related program
+
+## career
+
